@@ -334,19 +334,6 @@ with col_b:
     )
     st.plotly_chart(fig_evol, use_container_width=True)
 
-    st.markdown("##### TikTok — virales (antes vs ahora)")
-    tt_c1, tt_c2 = st.columns(2)
-    tt_c1.metric(
-        "Virales en primeros 10",
-        "1",
-        help="Viral = publicación con >x5 el rendimiento de un post normal de la cuenta"
-    )
-    tt_c2.metric(
-        "Virales en últimos 10",
-        "3",
-        delta="3x más",
-        help="Viral = publicación con >x5 el rendimiento de un post normal de la cuenta"
-    )
 
 # ──────────────────── CTA Conversion + funnel ─────────────────────────
 st.markdown("---")
