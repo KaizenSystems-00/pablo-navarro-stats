@@ -177,20 +177,15 @@ c4.metric(
     f"{saves_total + shares_total:,}".replace(",", "."),
     help=f"Saves IG: {saves_total} · Shares IG+TT: {shares_total}".replace(",", ".")
 )
-alcance_total = OFFICIAL["instagram"]["cuentas_alcanzadas"] + OFFICIAL["tiktok"]["espectadores_nuevos"]
 c5.metric(
-    "Alcance único (IG + TT)",
-    f"{alcance_total:,}".replace(",", "."),
-    help=f"IG cuentas alcanzadas: {OFFICIAL['instagram']['cuentas_alcanzadas']:,} (60d) · TT espectadores nuevos: {OFFICIAL['tiktok']['espectadores_nuevos']:,}".replace(",", ".")
-)
-interacciones_total = (
-    OFFICIAL["instagram"]["likes"] + OFFICIAL["instagram"]["comments"] + OFFICIAL["instagram"]["saves"] + OFFICIAL["instagram"]["shares"]
-    + OFFICIAL["tiktok"]["likes"] + OFFICIAL["tiktok"]["comments"] + OFFICIAL["tiktok"]["shares"]
+    "Cuentas alcanzadas IG",
+    f"{OFFICIAL['instagram']['cuentas_alcanzadas']:,}".replace(",", "."),
+    help="Cuentas únicas alcanzadas en los 60 días (IG Insights)"
 )
 c6.metric(
-    "Interacciones totales (IG + TT)",
-    f"{interacciones_total:,}".replace(",", "."),
-    help="Suma de likes + comments + saves + shares en ambas plataformas"
+    "Espectadores nuevos TT",
+    f"{OFFICIAL['tiktok']['espectadores_nuevos']:,}".replace(",", "."),
+    help="Espectadores únicos nuevos en TikTok Studio (~equivalente a cuentas alcanzadas para una cuenta nueva)"
 )
 
 st.markdown("---")
