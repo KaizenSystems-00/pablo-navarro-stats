@@ -1,0 +1,1117 @@
+{
+  "instagram": {
+    "platform": "Instagram",
+    "n_videos_analizados": 10,
+    "comentarios_media": 9.5,
+    "comentarios_mediana": 6,
+    "comentarios_total_oficial": 95,
+    "comentarios_total_scrapeados": 48,
+    "intent_total": 35,
+    "intent_media_por_video": 3.5,
+    "intent_ratio_views_media_pct": 0.07,
+    "intent_ratio_views_mediana_pct": 0.04,
+    "videos": [
+      {
+        "shortcode_or_id": "DYodUnfsFDY",
+        "url": "https://www.instagram.com/p/DYodUnfsFDY/",
+        "fecha": "2026-05-22",
+        "hook": "Comenta REAL si quieres el curso GRATUITO de inversión donde te enseño a leer la rentabili",
+        "views": 815,
+        "comments_official": 2,
+        "comments_scraped": 2,
+        "scrape_coverage_pct": 100.0,
+        "intent_count": 2,
+        "intent_per_view_pct": 0.245,
+        "cta_keyword_count": 2,
+        "questions_count": 0,
+        "top_intent_examples": [
+          {
+            "text": "Real.",
+            "owner": "leonardo65316",
+            "cat": "cta_keyword"
+          },
+          {
+            "text": "Real",
+            "owner": "parr6264",
+            "cat": "cta_keyword"
+          }
+        ]
+      },
+      {
+        "shortcode_or_id": "DYmDFScs5bO",
+        "url": "https://www.instagram.com/p/DYmDFScs5bO/",
+        "fecha": "2026-05-21",
+        "hook": "Comenta SP si quieres el curso GRATUITO de inversión donde te enseño a elegir el índice co",
+        "views": 1820,
+        "comments_official": 8,
+        "comments_scraped": 3,
+        "scrape_coverage_pct": 37.5,
+        "intent_count": 2,
+        "intent_per_view_pct": 0.11,
+        "cta_keyword_count": 2,
+        "questions_count": 0,
+        "top_intent_examples": [
+          {
+            "text": "Sp",
+            "owner": "zape2014",
+            "cat": "cta_keyword"
+          },
+          {
+            "text": "Sp.",
+            "owner": "leonardo65316",
+            "cat": "cta_keyword"
+          }
+        ]
+      },
+      {
+        "shortcode_or_id": "DYjP4baMssZ",
+        "url": "https://www.instagram.com/p/DYjP4baMssZ/",
+        "fecha": "2026-05-20",
+        "hook": "Comenta ETF si quieres copiar mi estrategia y asegurarte de no fallar al elegir el S&P 500",
+        "views": 2915,
+        "comments_official": 31,
+        "comments_scraped": 4,
+        "scrape_coverage_pct": 12.9,
+        "intent_count": 4,
+        "intent_per_view_pct": 0.137,
+        "cta_keyword_count": 4,
+        "questions_count": 0,
+        "top_intent_examples": [
+          {
+            "text": "Etf🙌",
+            "owner": "isbhi.2024",
+            "cat": "cta_keyword"
+          },
+          {
+            "text": "Etf",
+            "owner": "silvia_jimrz",
+            "cat": "cta_keyword"
+          },
+          {
+            "text": "🤦‍♀️🤦‍♀️🤦‍♀️🤦‍♀️🤦‍♀️🤦‍♀️",
+            "owner": "smg2112_",
+            "cat": "single_word"
+          },
+          {
+            "text": "ETF",
+            "owner": "jarr272024",
+            "cat": "cta_keyword"
+          }
+        ]
+      },
+      {
+        "shortcode_or_id": "DYhyG4VsC7l",
+        "url": "https://www.instagram.com/p/DYhyG4VsC7l/",
+        "fecha": "2026-05-19",
+        "hook": "Comenta cuál ya tienes en cartera.",
+        "views": 9831,
+        "comments_official": 5,
+        "comments_scraped": 5,
+        "scrape_coverage_pct": 100.0,
+        "intent_count": 4,
+        "intent_per_view_pct": 0.041,
+        "cta_keyword_count": 3,
+        "questions_count": 1,
+        "top_intent_examples": [
+          {
+            "text": "Y Coca Cola? Es cualquier esa info",
+            "owner": "benditasalis",
+            "cat": "question"
+          },
+          {
+            "text": "Amex.",
+            "owner": "jlg2754",
+            "cat": "single_word"
+          },
+          {
+            "text": "Nvidia 🔥",
+            "owner": "tuyyo3mscieloloquequieras",
+            "cat": "single_word"
+          },
+          {
+            "text": "Google",
+            "owner": "mskalber",
+            "cat": "single_word"
+          }
+        ]
+      },
+      {
+        "shortcode_or_id": "DYaFt1YMX2C",
+        "url": "https://www.instagram.com/p/DYaFt1YMX2C/",
+        "fecha": "2026-05-16",
+        "hook": "comenta 'EDAD' y te explico cómo invertir cada mes según tu edad para llegar a 1.000.000",
+        "views": 954,
+        "comments_official": 0,
+        "comments_scraped": 0,
+        "scrape_coverage_pct": 0,
+        "intent_count": 0,
+        "intent_per_view_pct": 0.0,
+        "cta_keyword_count": 0,
+        "questions_count": 0,
+        "top_intent_examples": []
+      },
+      {
+        "shortcode_or_id": "DYW01MHM0jC",
+        "url": "https://www.instagram.com/p/DYW01MHM0jC/",
+        "fecha": "2026-05-15",
+        "hook": "👉 comenta 'INVERTIR' y te enseño cómo Invertir desde 100€ a 10.000€ con un método infalibl",
+        "views": 2146,
+        "comments_official": 4,
+        "comments_scraped": 1,
+        "scrape_coverage_pct": 25.0,
+        "intent_count": 1,
+        "intent_per_view_pct": 0.047,
+        "cta_keyword_count": 1,
+        "questions_count": 0,
+        "top_intent_examples": [
+          {
+            "text": "Invertir",
+            "owner": "maria_angeles_20053",
+            "cat": "single_word"
+          }
+        ]
+      },
+      {
+        "shortcode_or_id": "DYU34lFMstM",
+        "url": "https://www.instagram.com/p/DYU34lFMstM/",
+        "fecha": "2026-05-14",
+        "hook": "Pocos hablan de esto. Hay que tomar decisiones en base a los datos. Tu sabías esto? 👀",
+        "views": 4752,
+        "comments_official": 1,
+        "comments_scraped": 1,
+        "scrape_coverage_pct": 100.0,
+        "intent_count": 1,
+        "intent_per_view_pct": 0.021,
+        "cta_keyword_count": 0,
+        "questions_count": 1,
+        "top_intent_examples": [
+          {
+            "text": "Claro que si ahora retrocedemos 20 años e invertimos, vendehumos",
+            "owner": "manuel.sanmiguel",
+            "cat": "question"
+          }
+        ]
+      },
+      {
+        "shortcode_or_id": "DYLFb0JMkiI",
+        "url": "https://www.instagram.com/p/DYLFb0JMkiI/",
+        "fecha": "2026-05-10",
+        "hook": "Añadirías alguno a la lista? te leo 👀",
+        "views": 17293,
+        "comments_official": 7,
+        "comments_scraped": 6,
+        "scrape_coverage_pct": 85.7,
+        "intent_count": 4,
+        "intent_per_view_pct": 0.023,
+        "cta_keyword_count": 0,
+        "questions_count": 4,
+        "top_intent_examples": [
+          {
+            "text": "Cuales de estos son etfs acumulativos?",
+            "owner": "harold_reyes.rojas",
+            "cat": "question"
+          },
+          {
+            "text": "Que me dices de l alguna India?",
+            "owner": "solcosmica",
+            "cat": "question"
+          },
+          {
+            "text": "¿Por qué QQQ y no QQQM?",
+            "owner": "fotocortes",
+            "cat": "question"
+          },
+          {
+            "text": "Y en que Bróker los consigues?",
+            "owner": "j_j_s_english_coaching",
+            "cat": "question"
+          }
+        ]
+      },
+      {
+        "shortcode_or_id": "DYCaj7Ds4rE",
+        "url": "https://www.instagram.com/p/DYCaj7Ds4rE/",
+        "fecha": "2026-05-07",
+        "hook": "Envíaselo a esa persona a la que le pueda ayudar 💙",
+        "views": 18054,
+        "comments_official": 17,
+        "comments_scraped": 12,
+        "scrape_coverage_pct": 70.6,
+        "intent_count": 7,
+        "intent_per_view_pct": 0.039,
+        "cta_keyword_count": 5,
+        "questions_count": 2,
+        "top_intent_examples": [
+          {
+            "text": "Spacex ai",
+            "owner": "chikilin2310",
+            "cat": "two_words"
+          },
+          {
+            "text": "Por favor, no cortes los vídeos tan al límite. McDonald's me gusta pero acabar d",
+            "owner": "jiricarte",
+            "cat": "question"
+          },
+          {
+            "text": "Mc donalds",
+            "owner": "gustavo.fucile",
+            "cat": "two_words"
+          },
+          {
+            "text": "Todas",
+            "owner": "ekkizer",
+            "cat": "single_word"
+          },
+          {
+            "text": "Mcd",
+            "owner": "gcosta354",
+            "cat": "single_word"
+          }
+        ]
+      },
+      {
+        "shortcode_or_id": "DXxDYVzsnYs",
+        "url": "https://www.instagram.com/p/DXxDYVzsnYs/",
+        "fecha": "2026-04-30",
+        "hook": "Dale ❤️ si inviertes a largo plazo",
+        "views": 31519,
+        "comments_official": 20,
+        "comments_scraped": 14,
+        "scrape_coverage_pct": 70.0,
+        "intent_count": 10,
+        "intent_per_view_pct": 0.032,
+        "cta_keyword_count": 3,
+        "questions_count": 7,
+        "top_intent_examples": [
+          {
+            "text": "PepsiCo muchas personas la ignoran pero paga Buenos dividends y es mas diversifi",
+            "owner": "manuelhernandez1265",
+            "cat": "question"
+          },
+          {
+            "text": "Te faltaron las  tres que explotaran en 2030",
+            "owner": "2602.jaime",
+            "cat": "question"
+          },
+          {
+            "text": "Yo quiero guita ahora...no dentro de veinte años. Todas esas son boludeces insta",
+            "owner": "darius_saw88",
+            "cat": "question"
+          },
+          {
+            "text": "Abbvie",
+            "owner": "jpyim89",
+            "cat": "single_word"
+          },
+          {
+            "text": "Microsoft",
+            "owner": "polaproko",
+            "cat": "single_word"
+          }
+        ]
+      }
+    ],
+    "intent_examples_global": [
+      {
+        "video_url": "https://www.instagram.com/p/DYodUnfsFDY/",
+        "video_hook": "Comenta REAL si quieres el curso GRATUITO de inversión donde",
+        "video_views": 815,
+        "comment": "Real.",
+        "owner": "leonardo65316",
+        "category": "cta_keyword",
+        "keyword": "REAL"
+      },
+      {
+        "video_url": "https://www.instagram.com/p/DYodUnfsFDY/",
+        "video_hook": "Comenta REAL si quieres el curso GRATUITO de inversión donde",
+        "video_views": 815,
+        "comment": "Real",
+        "owner": "parr6264",
+        "category": "cta_keyword",
+        "keyword": "REAL"
+      },
+      {
+        "video_url": "https://www.instagram.com/p/DYmDFScs5bO/",
+        "video_hook": "Comenta SP si quieres el curso GRATUITO de inversión donde t",
+        "video_views": 1820,
+        "comment": "Sp",
+        "owner": "zape2014",
+        "category": "cta_keyword",
+        "keyword": "SP"
+      },
+      {
+        "video_url": "https://www.instagram.com/p/DYmDFScs5bO/",
+        "video_hook": "Comenta SP si quieres el curso GRATUITO de inversión donde t",
+        "video_views": 1820,
+        "comment": "Sp.",
+        "owner": "leonardo65316",
+        "category": "cta_keyword",
+        "keyword": "SP"
+      },
+      {
+        "video_url": "https://www.instagram.com/p/DYjP4baMssZ/",
+        "video_hook": "Comenta ETF si quieres copiar mi estrategia y asegurarte de ",
+        "video_views": 2915,
+        "comment": "Etf🙌",
+        "owner": "isbhi.2024",
+        "category": "cta_keyword",
+        "keyword": "ETF"
+      },
+      {
+        "video_url": "https://www.instagram.com/p/DYjP4baMssZ/",
+        "video_hook": "Comenta ETF si quieres copiar mi estrategia y asegurarte de ",
+        "video_views": 2915,
+        "comment": "Etf",
+        "owner": "silvia_jimrz",
+        "category": "cta_keyword",
+        "keyword": "ETF"
+      },
+      {
+        "video_url": "https://www.instagram.com/p/DYjP4baMssZ/",
+        "video_hook": "Comenta ETF si quieres copiar mi estrategia y asegurarte de ",
+        "video_views": 2915,
+        "comment": "🤦‍♀️🤦‍♀️🤦‍♀️🤦‍♀️🤦‍♀️🤦‍♀️",
+        "owner": "smg2112_",
+        "category": "single_word",
+        "keyword": "‍‍‍‍‍‍"
+      },
+      {
+        "video_url": "https://www.instagram.com/p/DYjP4baMssZ/",
+        "video_hook": "Comenta ETF si quieres copiar mi estrategia y asegurarte de ",
+        "video_views": 2915,
+        "comment": "ETF",
+        "owner": "jarr272024",
+        "category": "cta_keyword",
+        "keyword": "ETF"
+      },
+      {
+        "video_url": "https://www.instagram.com/p/DYhyG4VsC7l/",
+        "video_hook": "Comenta cuál ya tienes en cartera.",
+        "video_views": 9831,
+        "comment": "Y Coca Cola? Es cualquier esa info",
+        "owner": "benditasalis",
+        "category": "question",
+        "keyword": null
+      },
+      {
+        "video_url": "https://www.instagram.com/p/DYhyG4VsC7l/",
+        "video_hook": "Comenta cuál ya tienes en cartera.",
+        "video_views": 9831,
+        "comment": "Amex.",
+        "owner": "jlg2754",
+        "category": "single_word",
+        "keyword": "AMEX"
+      },
+      {
+        "video_url": "https://www.instagram.com/p/DYhyG4VsC7l/",
+        "video_hook": "Comenta cuál ya tienes en cartera.",
+        "video_views": 9831,
+        "comment": "Nvidia 🔥",
+        "owner": "tuyyo3mscieloloquequieras",
+        "category": "single_word",
+        "keyword": "NVIDIA"
+      },
+      {
+        "video_url": "https://www.instagram.com/p/DYhyG4VsC7l/",
+        "video_hook": "Comenta cuál ya tienes en cartera.",
+        "video_views": 9831,
+        "comment": "Google",
+        "owner": "mskalber",
+        "category": "single_word",
+        "keyword": "GOOGLE"
+      },
+      {
+        "video_url": "https://www.instagram.com/p/DYW01MHM0jC/",
+        "video_hook": "👉 comenta 'INVERTIR' y te enseño cómo Invertir desde 100€ a ",
+        "video_views": 2146,
+        "comment": "Invertir",
+        "owner": "maria_angeles_20053",
+        "category": "single_word",
+        "keyword": "INVERTIR"
+      },
+      {
+        "video_url": "https://www.instagram.com/p/DYU34lFMstM/",
+        "video_hook": "Pocos hablan de esto. Hay que tomar decisiones en base a los",
+        "video_views": 4752,
+        "comment": "Claro que si ahora retrocedemos 20 años e invertimos, vendehumos",
+        "owner": "manuel.sanmiguel",
+        "category": "question",
+        "keyword": null
+      },
+      {
+        "video_url": "https://www.instagram.com/p/DYLFb0JMkiI/",
+        "video_hook": "Añadirías alguno a la lista? te leo 👀",
+        "video_views": 17293,
+        "comment": "Cuales de estos son etfs acumulativos?",
+        "owner": "harold_reyes.rojas",
+        "category": "question",
+        "keyword": null
+      },
+      {
+        "video_url": "https://www.instagram.com/p/DYLFb0JMkiI/",
+        "video_hook": "Añadirías alguno a la lista? te leo 👀",
+        "video_views": 17293,
+        "comment": "Que me dices de l alguna India?",
+        "owner": "solcosmica",
+        "category": "question",
+        "keyword": null
+      },
+      {
+        "video_url": "https://www.instagram.com/p/DYLFb0JMkiI/",
+        "video_hook": "Añadirías alguno a la lista? te leo 👀",
+        "video_views": 17293,
+        "comment": "¿Por qué QQQ y no QQQM?",
+        "owner": "fotocortes",
+        "category": "question",
+        "keyword": null
+      },
+      {
+        "video_url": "https://www.instagram.com/p/DYLFb0JMkiI/",
+        "video_hook": "Añadirías alguno a la lista? te leo 👀",
+        "video_views": 17293,
+        "comment": "Y en que Bróker los consigues?",
+        "owner": "j_j_s_english_coaching",
+        "category": "question",
+        "keyword": null
+      },
+      {
+        "video_url": "https://www.instagram.com/p/DYCaj7Ds4rE/",
+        "video_hook": "Envíaselo a esa persona a la que le pueda ayudar 💙",
+        "video_views": 18054,
+        "comment": "Spacex ai",
+        "owner": "chikilin2310",
+        "category": "two_words",
+        "keyword": "SPACEX AI"
+      },
+      {
+        "video_url": "https://www.instagram.com/p/DYCaj7Ds4rE/",
+        "video_hook": "Envíaselo a esa persona a la que le pueda ayudar 💙",
+        "video_views": 18054,
+        "comment": "Por favor, no cortes los vídeos tan al límite. McDonald's me gusta pero acabar de romper soporte imp",
+        "owner": "jiricarte",
+        "category": "question",
+        "keyword": null
+      },
+      {
+        "video_url": "https://www.instagram.com/p/DYCaj7Ds4rE/",
+        "video_hook": "Envíaselo a esa persona a la que le pueda ayudar 💙",
+        "video_views": 18054,
+        "comment": "Mc donalds",
+        "owner": "gustavo.fucile",
+        "category": "two_words",
+        "keyword": "MC DONALDS"
+      },
+      {
+        "video_url": "https://www.instagram.com/p/DYCaj7Ds4rE/",
+        "video_hook": "Envíaselo a esa persona a la que le pueda ayudar 💙",
+        "video_views": 18054,
+        "comment": "Todas",
+        "owner": "ekkizer",
+        "category": "single_word",
+        "keyword": "TODAS"
+      },
+      {
+        "video_url": "https://www.instagram.com/p/DYCaj7Ds4rE/",
+        "video_hook": "Envíaselo a esa persona a la que le pueda ayudar 💙",
+        "video_views": 18054,
+        "comment": "Mcd",
+        "owner": "gcosta354",
+        "category": "single_word",
+        "keyword": "MCD"
+      },
+      {
+        "video_url": "https://www.instagram.com/p/DYCaj7Ds4rE/",
+        "video_hook": "Envíaselo a esa persona a la que le pueda ayudar 💙",
+        "video_views": 18054,
+        "comment": "Coca cola",
+        "owner": "jorge.finardi",
+        "category": "two_words",
+        "keyword": "COCA COLA"
+      },
+      {
+        "video_url": "https://www.instagram.com/p/DYCaj7Ds4rE/",
+        "video_hook": "Envíaselo a esa persona a la que le pueda ayudar 💙",
+        "video_views": 18054,
+        "comment": "Cuál es el primer lugar",
+        "owner": "jorgegara.62",
+        "category": "question",
+        "keyword": null
+      },
+      {
+        "video_url": "https://www.instagram.com/p/DXxDYVzsnYs/",
+        "video_hook": "Dale ❤️ si inviertes a largo plazo",
+        "video_views": 31519,
+        "comment": "PepsiCo muchas personas la ignoran pero paga Buenos dividends y es mas diversification que coke",
+        "owner": "manuelhernandez1265",
+        "category": "question",
+        "keyword": null
+      },
+      {
+        "video_url": "https://www.instagram.com/p/DXxDYVzsnYs/",
+        "video_hook": "Dale ❤️ si inviertes a largo plazo",
+        "video_views": 31519,
+        "comment": "Te faltaron las  tres que explotaran en 2030",
+        "owner": "2602.jaime",
+        "category": "question",
+        "keyword": null
+      },
+      {
+        "video_url": "https://www.instagram.com/p/DXxDYVzsnYs/",
+        "video_hook": "Dale ❤️ si inviertes a largo plazo",
+        "video_views": 31519,
+        "comment": "Yo quiero guita ahora...no dentro de veinte años. Todas esas son boludeces instadas por Warren Buffe",
+        "owner": "darius_saw88",
+        "category": "question",
+        "keyword": null
+      },
+      {
+        "video_url": "https://www.instagram.com/p/DXxDYVzsnYs/",
+        "video_hook": "Dale ❤️ si inviertes a largo plazo",
+        "video_views": 31519,
+        "comment": "Abbvie",
+        "owner": "jpyim89",
+        "category": "single_word",
+        "keyword": "ABBVIE"
+      },
+      {
+        "video_url": "https://www.instagram.com/p/DXxDYVzsnYs/",
+        "video_hook": "Dale ❤️ si inviertes a largo plazo",
+        "video_views": 31519,
+        "comment": "Microsoft",
+        "owner": "polaproko",
+        "category": "single_word",
+        "keyword": "MICROSOFT"
+      },
+      {
+        "video_url": "https://www.instagram.com/p/DXxDYVzsnYs/",
+        "video_hook": "Dale ❤️ si inviertes a largo plazo",
+        "video_views": 31519,
+        "comment": "¿Alguien sabe si aún sigue vivo?",
+        "owner": "fmp78fmz",
+        "category": "question",
+        "keyword": null
+      },
+      {
+        "video_url": "https://www.instagram.com/p/DXxDYVzsnYs/",
+        "video_hook": "Dale ❤️ si inviertes a largo plazo",
+        "video_views": 31519,
+        "comment": "Google",
+        "owner": "danyy_real",
+        "category": "single_word",
+        "keyword": "GOOGLE"
+      },
+      {
+        "video_url": "https://www.instagram.com/p/DXxDYVzsnYs/",
+        "video_hook": "Dale ❤️ si inviertes a largo plazo",
+        "video_views": 31519,
+        "comment": "Y a Apple no la incluyes ? La empresa con mayor valor de capitalización junto a Nvidia",
+        "owner": "confidencial_coffee",
+        "category": "question",
+        "keyword": null
+      },
+      {
+        "video_url": "https://www.instagram.com/p/DXxDYVzsnYs/",
+        "video_hook": "Dale ❤️ si inviertes a largo plazo",
+        "video_views": 31519,
+        "comment": "Para comprar una sola accion de berkshire hataway, tienes  que ser casi millonario.",
+        "owner": "m.a.kamino",
+        "category": "question",
+        "keyword": null
+      },
+      {
+        "video_url": "https://www.instagram.com/p/DXxDYVzsnYs/",
+        "video_hook": "Dale ❤️ si inviertes a largo plazo",
+        "video_views": 31519,
+        "comment": "Me parece que mucha idea no tienes cuando dejas a Nvidia fuera del top 5",
+        "owner": "nacho_mt07",
+        "category": "question",
+        "keyword": null
+      }
+    ]
+  },
+  "tiktok": {
+    "platform": "TikTok",
+    "n_videos_analizados": 10,
+    "comentarios_media": 5.3,
+    "comentarios_mediana": 1,
+    "comentarios_total_oficial": 53,
+    "comentarios_total_scrapeados": 41,
+    "intent_total": 26,
+    "intent_media_por_video": 2.6,
+    "intent_ratio_views_media_pct": 0.066,
+    "intent_ratio_views_mediana_pct": 0.007,
+    "videos": [
+      {
+        "shortcode_or_id": "7642608668617248022",
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7642608668617248022",
+        "fecha": "2026-05-22",
+        "hook": "Comenta ETF si quieres copiar mi estrategia y asegurarte de no fallar al elegir el S&P 500",
+        "views": 4064,
+        "comments_official": 11,
+        "comments_scraped": 11,
+        "scrape_coverage_pct": 100.0,
+        "intent_count": 11,
+        "intent_per_view_pct": 0.271,
+        "cta_keyword_count": 11,
+        "questions_count": 0,
+        "top_intent_examples": [
+          {
+            "text": "ETF",
+            "owner": "carloshernande278",
+            "cat": "cta_keyword"
+          },
+          {
+            "text": "etf",
+            "owner": "juanbondios",
+            "cat": "cta_keyword"
+          },
+          {
+            "text": "etf acumulacion",
+            "owner": "pedropaez852",
+            "cat": "cta_keyword"
+          },
+          {
+            "text": "etf",
+            "owner": "pisoscompra",
+            "cat": "cta_keyword"
+          },
+          {
+            "text": "Etf",
+            "owner": "nurjardi",
+            "cat": "cta_keyword"
+          }
+        ]
+      },
+      {
+        "shortcode_or_id": "7642264040030489878",
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7642264040030489878",
+        "fecha": "2026-05-21",
+        "hook": "Comenta SP si quieres el curso GRATUITO de inversión donde te enseño a elegir el índice co",
+        "views": 794,
+        "comments_official": 0,
+        "comments_scraped": 0,
+        "scrape_coverage_pct": 0,
+        "intent_count": 0,
+        "intent_per_view_pct": 0.0,
+        "cta_keyword_count": 0,
+        "questions_count": 0,
+        "top_intent_examples": []
+      },
+      {
+        "shortcode_or_id": "7641913692300299542",
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7641913692300299542",
+        "fecha": "2026-05-20",
+        "hook": "Comenta REAL si quieres el curso GRATUITO de inversión donde te enseño a leer la rentabili",
+        "views": 948,
+        "comments_official": 2,
+        "comments_scraped": 2,
+        "scrape_coverage_pct": 100.0,
+        "intent_count": 1,
+        "intent_per_view_pct": 0.105,
+        "cta_keyword_count": 1,
+        "questions_count": 0,
+        "top_intent_examples": [
+          {
+            "text": "real",
+            "owner": "germanberzastanganillo",
+            "cat": "cta_keyword"
+          }
+        ]
+      },
+      {
+        "shortcode_or_id": "7641649830577573142",
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7641649830577573142",
+        "fecha": "2026-05-19",
+        "hook": "Comenta cuál ya tienes en cartera.",
+        "views": 809,
+        "comments_official": 0,
+        "comments_scraped": 0,
+        "scrape_coverage_pct": 0,
+        "intent_count": 0,
+        "intent_per_view_pct": 0.0,
+        "cta_keyword_count": 0,
+        "questions_count": 0,
+        "top_intent_examples": []
+      },
+      {
+        "shortcode_or_id": "7640540753092955414",
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7640540753092955414",
+        "fecha": "2026-05-16",
+        "hook": "comenta 'EDAD' y te explico cómo invertir cada mes según tu edad para llegar a 1.000.000",
+        "views": 867,
+        "comments_official": 2,
+        "comments_scraped": 2,
+        "scrape_coverage_pct": 100.0,
+        "intent_count": 2,
+        "intent_per_view_pct": 0.231,
+        "cta_keyword_count": 2,
+        "questions_count": 0,
+        "top_intent_examples": [
+          {
+            "text": "Aprende matemàticas",
+            "owner": "xaviermasnou",
+            "cat": "two_words"
+          },
+          {
+            "text": "edad 58",
+            "owner": "perezrina.ma",
+            "cat": "two_words"
+          }
+        ]
+      },
+      {
+        "shortcode_or_id": "7640071003938278678",
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7640071003938278678",
+        "fecha": "2026-05-15",
+        "hook": "comenta 'INVERTIR' y te enseño cómo Invertir desde 100€ a 10.000€ con un método infalible ",
+        "views": 277,
+        "comments_official": 0,
+        "comments_scraped": 0,
+        "scrape_coverage_pct": 0,
+        "intent_count": 0,
+        "intent_per_view_pct": 0.0,
+        "cta_keyword_count": 0,
+        "questions_count": 0,
+        "top_intent_examples": []
+      },
+      {
+        "shortcode_or_id": "7639789078740782358",
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7639789078740782358",
+        "fecha": "2026-05-14",
+        "hook": "La realidad del SP500. Lo sabías? Te leo abajo 👀",
+        "views": 8622,
+        "comments_official": 4,
+        "comments_scraped": 3,
+        "scrape_coverage_pct": 75.0,
+        "intent_count": 3,
+        "intent_per_view_pct": 0.035,
+        "cta_keyword_count": 2,
+        "questions_count": 1,
+        "top_intent_examples": [
+          {
+            "text": "gracias",
+            "owner": "elhogarcanario",
+            "cat": "single_word"
+          },
+          {
+            "text": "que guapo😏",
+            "owner": "ana.alonso275",
+            "cat": "two_words"
+          },
+          {
+            "text": "2020s va a ser muy negativo,los 4 que quedan son apocalipticos😳",
+            "owner": "27septemberwww",
+            "cat": "question"
+          }
+        ]
+      },
+      {
+        "shortcode_or_id": "7638375614872915222",
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7638375614872915222",
+        "fecha": "2026-05-10",
+        "hook": "Añadirías alguno a la lista? Te leo 👀",
+        "views": 701,
+        "comments_official": 0,
+        "comments_scraped": 0,
+        "scrape_coverage_pct": 0,
+        "intent_count": 0,
+        "intent_per_view_pct": 0.0,
+        "cta_keyword_count": 0,
+        "questions_count": 0,
+        "top_intent_examples": []
+      },
+      {
+        "shortcode_or_id": "7637128784067579158",
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7637128784067579158",
+        "fecha": "2026-05-07",
+        "hook": "Envíaselo a esa persona a la que le pueda ayudar 💙",
+        "views": 819,
+        "comments_official": 1,
+        "comments_scraped": 1,
+        "scrape_coverage_pct": 100.0,
+        "intent_count": 0,
+        "intent_per_view_pct": 0.0,
+        "cta_keyword_count": 0,
+        "questions_count": 0,
+        "top_intent_examples": []
+      },
+      {
+        "shortcode_or_id": "7634627444296715542",
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7634627444296715542",
+        "fecha": "2026-04-30",
+        "hook": "Añadirías alguna? Te leo 👀",
+        "views": 60900,
+        "comments_official": 33,
+        "comments_scraped": 22,
+        "scrape_coverage_pct": 66.7,
+        "intent_count": 9,
+        "intent_per_view_pct": 0.015,
+        "cta_keyword_count": 6,
+        "questions_count": 3,
+        "top_intent_examples": [
+          {
+            "text": "Microsoft lleva dos años bajando. No digo que no sea mala inversión a largo plaz",
+            "owner": "me.he.perdido",
+            "cat": "question"
+          },
+          {
+            "text": "Cocacola",
+            "owner": "gasolineraespinosa",
+            "cat": "single_word"
+          },
+          {
+            "text": "nvidia\nmsl",
+            "owner": "jhonsecado5",
+            "cat": "two_words"
+          },
+          {
+            "text": "IONQ",
+            "owner": "tiktoktiktoktiktok2026",
+            "cat": "single_word"
+          },
+          {
+            "text": "falta CAT",
+            "owner": "zedasbikes85",
+            "cat": "two_words"
+          }
+        ]
+      }
+    ],
+    "intent_examples_global": [
+      {
+        "video_url": "https://www.tiktok.com/@pablonavarro.inversion/video/7642608668617248022",
+        "video_hook": "Comenta ETF si quieres copiar mi estrategia y asegurarte de ",
+        "video_views": 4064,
+        "comment": "ETF",
+        "owner": "carloshernande278",
+        "category": "cta_keyword",
+        "keyword": "ETF"
+      },
+      {
+        "video_url": "https://www.tiktok.com/@pablonavarro.inversion/video/7642608668617248022",
+        "video_hook": "Comenta ETF si quieres copiar mi estrategia y asegurarte de ",
+        "video_views": 4064,
+        "comment": "etf",
+        "owner": "juanbondios",
+        "category": "cta_keyword",
+        "keyword": "ETF"
+      },
+      {
+        "video_url": "https://www.tiktok.com/@pablonavarro.inversion/video/7642608668617248022",
+        "video_hook": "Comenta ETF si quieres copiar mi estrategia y asegurarte de ",
+        "video_views": 4064,
+        "comment": "etf acumulacion",
+        "owner": "pedropaez852",
+        "category": "cta_keyword",
+        "keyword": "ETF"
+      },
+      {
+        "video_url": "https://www.tiktok.com/@pablonavarro.inversion/video/7642608668617248022",
+        "video_hook": "Comenta ETF si quieres copiar mi estrategia y asegurarte de ",
+        "video_views": 4064,
+        "comment": "etf",
+        "owner": "pisoscompra",
+        "category": "cta_keyword",
+        "keyword": "ETF"
+      },
+      {
+        "video_url": "https://www.tiktok.com/@pablonavarro.inversion/video/7642608668617248022",
+        "video_hook": "Comenta ETF si quieres copiar mi estrategia y asegurarte de ",
+        "video_views": 4064,
+        "comment": "Etf",
+        "owner": "nurjardi",
+        "category": "cta_keyword",
+        "keyword": "ETF"
+      },
+      {
+        "video_url": "https://www.tiktok.com/@pablonavarro.inversion/video/7642608668617248022",
+        "video_hook": "Comenta ETF si quieres copiar mi estrategia y asegurarte de ",
+        "video_views": 4064,
+        "comment": "Etf",
+        "owner": "sashta12",
+        "category": "cta_keyword",
+        "keyword": "ETF"
+      },
+      {
+        "video_url": "https://www.tiktok.com/@pablonavarro.inversion/video/7642608668617248022",
+        "video_hook": "Comenta ETF si quieres copiar mi estrategia y asegurarte de ",
+        "video_views": 4064,
+        "comment": "etf",
+        "owner": "josecarlosgonza282",
+        "category": "cta_keyword",
+        "keyword": "ETF"
+      },
+      {
+        "video_url": "https://www.tiktok.com/@pablonavarro.inversion/video/7642608668617248022",
+        "video_hook": "Comenta ETF si quieres copiar mi estrategia y asegurarte de ",
+        "video_views": 4064,
+        "comment": "Etf",
+        "owner": "luis_saanchez__",
+        "category": "cta_keyword",
+        "keyword": "ETF"
+      },
+      {
+        "video_url": "https://www.tiktok.com/@pablonavarro.inversion/video/7642608668617248022",
+        "video_hook": "Comenta ETF si quieres copiar mi estrategia y asegurarte de ",
+        "video_views": 4064,
+        "comment": "acumulación\ndiversificación\nindexado\ndólares\netf",
+        "owner": "elhogarcanario",
+        "category": "short_cta_phrase",
+        "keyword": "INDEXADO"
+      },
+      {
+        "video_url": "https://www.tiktok.com/@pablonavarro.inversion/video/7642608668617248022",
+        "video_hook": "Comenta ETF si quieres copiar mi estrategia y asegurarte de ",
+        "video_views": 4064,
+        "comment": "Etc",
+        "owner": "sashta12",
+        "category": "single_word",
+        "keyword": "ETC"
+      },
+      {
+        "video_url": "https://www.tiktok.com/@pablonavarro.inversion/video/7642608668617248022",
+        "video_hook": "Comenta ETF si quieres copiar mi estrategia y asegurarte de ",
+        "video_views": 4064,
+        "comment": "etf",
+        "owner": "miguelngelcortes2",
+        "category": "cta_keyword",
+        "keyword": "ETF"
+      },
+      {
+        "video_url": "https://www.tiktok.com/@pablonavarro.inversion/video/7641913692300299542",
+        "video_hook": "Comenta REAL si quieres el curso GRATUITO de inversión donde",
+        "video_views": 948,
+        "comment": "real",
+        "owner": "germanberzastanganillo",
+        "category": "cta_keyword",
+        "keyword": "REAL"
+      },
+      {
+        "video_url": "https://www.tiktok.com/@pablonavarro.inversion/video/7640540753092955414",
+        "video_hook": "comenta 'EDAD' y te explico cómo invertir cada mes según tu ",
+        "video_views": 867,
+        "comment": "Aprende matemàticas",
+        "owner": "xaviermasnou",
+        "category": "two_words",
+        "keyword": "APRENDE MATEMÀTICAS"
+      },
+      {
+        "video_url": "https://www.tiktok.com/@pablonavarro.inversion/video/7640540753092955414",
+        "video_hook": "comenta 'EDAD' y te explico cómo invertir cada mes según tu ",
+        "video_views": 867,
+        "comment": "edad 58",
+        "owner": "perezrina.ma",
+        "category": "two_words",
+        "keyword": "EDAD 58"
+      },
+      {
+        "video_url": "https://www.tiktok.com/@pablonavarro.inversion/video/7639789078740782358",
+        "video_hook": "La realidad del SP500. Lo sabías? Te leo abajo 👀",
+        "video_views": 8622,
+        "comment": "gracias",
+        "owner": "elhogarcanario",
+        "category": "single_word",
+        "keyword": "GRACIAS"
+      },
+      {
+        "video_url": "https://www.tiktok.com/@pablonavarro.inversion/video/7639789078740782358",
+        "video_hook": "La realidad del SP500. Lo sabías? Te leo abajo 👀",
+        "video_views": 8622,
+        "comment": "que guapo😏",
+        "owner": "ana.alonso275",
+        "category": "two_words",
+        "keyword": "QUE GUAPO"
+      },
+      {
+        "video_url": "https://www.tiktok.com/@pablonavarro.inversion/video/7639789078740782358",
+        "video_hook": "La realidad del SP500. Lo sabías? Te leo abajo 👀",
+        "video_views": 8622,
+        "comment": "2020s va a ser muy negativo,los 4 que quedan son apocalipticos😳",
+        "owner": "27septemberwww",
+        "category": "question",
+        "keyword": null
+      },
+      {
+        "video_url": "https://www.tiktok.com/@pablonavarro.inversion/video/7634627444296715542",
+        "video_hook": "Añadirías alguna? Te leo 👀",
+        "video_views": 60900,
+        "comment": "Microsoft lleva dos años bajando. No digo que no sea mala inversión a largo plazo, solo digo que el ",
+        "owner": "me.he.perdido",
+        "category": "question",
+        "keyword": null
+      },
+      {
+        "video_url": "https://www.tiktok.com/@pablonavarro.inversion/video/7634627444296715542",
+        "video_hook": "Añadirías alguna? Te leo 👀",
+        "video_views": 60900,
+        "comment": "Cocacola",
+        "owner": "gasolineraespinosa",
+        "category": "single_word",
+        "keyword": "COCACOLA"
+      },
+      {
+        "video_url": "https://www.tiktok.com/@pablonavarro.inversion/video/7634627444296715542",
+        "video_hook": "Añadirías alguna? Te leo 👀",
+        "video_views": 60900,
+        "comment": "nvidia\nmsl",
+        "owner": "jhonsecado5",
+        "category": "two_words",
+        "keyword": "NVIDIA MSL"
+      },
+      {
+        "video_url": "https://www.tiktok.com/@pablonavarro.inversion/video/7634627444296715542",
+        "video_hook": "Añadirías alguna? Te leo 👀",
+        "video_views": 60900,
+        "comment": "IONQ",
+        "owner": "tiktoktiktoktiktok2026",
+        "category": "single_word",
+        "keyword": "IONQ"
+      },
+      {
+        "video_url": "https://www.tiktok.com/@pablonavarro.inversion/video/7634627444296715542",
+        "video_hook": "Añadirías alguna? Te leo 👀",
+        "video_views": 60900,
+        "comment": "falta CAT",
+        "owner": "zedasbikes85",
+        "category": "two_words",
+        "keyword": "FALTA CAT"
+      },
+      {
+        "video_url": "https://www.tiktok.com/@pablonavarro.inversion/video/7634627444296715542",
+        "video_hook": "Añadirías alguna? Te leo 👀",
+        "video_views": 60900,
+        "comment": "Tesla (?)",
+        "owner": "santilaguna22",
+        "category": "single_word",
+        "keyword": "TESLA"
+      },
+      {
+        "video_url": "https://www.tiktok.com/@pablonavarro.inversion/video/7634627444296715542",
+        "video_hook": "Añadirías alguna? Te leo 👀",
+        "video_views": 60900,
+        "comment": "Amazon?",
+        "owner": "verite689",
+        "category": "single_word",
+        "keyword": "AMAZON"
+      },
+      {
+        "video_url": "https://www.tiktok.com/@pablonavarro.inversion/video/7634627444296715542",
+        "video_hook": "Añadirías alguna? Te leo 👀",
+        "video_views": 60900,
+        "comment": "Todas son alcistas de largo plazo , creo que están todas muy caras ,pero a 20 años es un win win de ",
+        "owner": "antonio4248",
+        "category": "question",
+        "keyword": null
+      },
+      {
+        "video_url": "https://www.tiktok.com/@pablonavarro.inversion/video/7634627444296715542",
+        "video_hook": "Añadirías alguna? Te leo 👀",
+        "video_views": 60900,
+        "comment": "visa bien hasta que se pueda pagar con bitcoin u otros métofos",
+        "owner": "pablovalls_",
+        "category": "question",
+        "keyword": null
+      }
+    ]
+  }
+}

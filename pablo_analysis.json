@@ -1,0 +1,961 @@
+{
+  "metadata": {
+    "generated_at": "2026-05-23T20:42:10.004122",
+    "platforms": [
+      "Instagram",
+      "TikTok"
+    ],
+    "account": "@pablonavarro.inversion",
+    "client": "Richard Gracia / Avatar Pablo Navarro"
+  },
+  "instagram": {
+    "platform": "Instagram",
+    "n_videos": 29,
+    "fecha_primero": "2026-04-07",
+    "fecha_ultimo": "2026-05-22",
+    "views_total": 143954,
+    "views_media": 4963.9,
+    "views_mediana": 815,
+    "views_p25": 263,
+    "views_p50": 815,
+    "views_p75": 3755,
+    "views_max": 38608,
+    "views_min": 214,
+    "views_stdev": 9580.2,
+    "rango_operativo_lo": 263,
+    "rango_operativo_hi": 3755,
+    "virales_threshold": 5000,
+    "virales_count": 5,
+    "virales_values": [
+      38608,
+      31519,
+      18054,
+      17293,
+      9831
+    ],
+    "media_sin_virales": 1193.7,
+    "mediana_sin_virales": 416,
+    "histogram": [
+      {
+        "bucket": "<500",
+        "lo": 0,
+        "hi": 500,
+        "count": 13
+      },
+      {
+        "bucket": "500-1k",
+        "lo": 500,
+        "hi": 1000,
+        "count": 4
+      },
+      {
+        "bucket": "1k-3k",
+        "lo": 1000,
+        "hi": 3000,
+        "count": 4
+      },
+      {
+        "bucket": "3k-5k",
+        "lo": 3000,
+        "hi": 5000,
+        "count": 3
+      },
+      {
+        "bucket": "5k-10k",
+        "lo": 5000,
+        "hi": 10000,
+        "count": 1
+      },
+      {
+        "bucket": "10k-30k",
+        "lo": 10000,
+        "hi": 30000,
+        "count": 2
+      },
+      {
+        "bucket": "30k+",
+        "lo": 30000,
+        "hi": 1000000000,
+        "count": 2
+      }
+    ],
+    "likes_total": 1724,
+    "comments_total": 110,
+    "n_views_30k_plus": 2,
+    "n_views_50k_plus": 0,
+    "n_views_100k_plus": 0,
+    "n_views_10k_plus": 4,
+    "n_views_5k_plus": 5,
+    "n_views_1k_plus": 12,
+    "top5_views": [
+      {
+        "rank": 1,
+        "views": 38608,
+        "likes": 252,
+        "comments": 10,
+        "fecha": "2026-04-09",
+        "url": "https://www.instagram.com/p/DW7D8LRDFwR/",
+        "hook": "👉Cuanto más tiempo permaneces invertido, mayores son tus probabilidades de no perder dinero nunca.",
+        "shares": null,
+        "saves": null
+      },
+      {
+        "rank": 2,
+        "views": 31519,
+        "likes": 476,
+        "comments": 20,
+        "fecha": "2026-04-30",
+        "url": "https://www.instagram.com/p/DXxDYVzsnYs/",
+        "hook": "Dale ❤️ si inviertes a largo plazo",
+        "shares": null,
+        "saves": null
+      },
+      {
+        "rank": 3,
+        "views": 18054,
+        "likes": 335,
+        "comments": 17,
+        "fecha": "2026-05-07",
+        "url": "https://www.instagram.com/p/DYCaj7Ds4rE/",
+        "hook": "Envíaselo a esa persona a la que le pueda ayudar 💙",
+        "shares": null,
+        "saves": null
+      },
+      {
+        "rank": 4,
+        "views": 17293,
+        "likes": 263,
+        "comments": 7,
+        "fecha": "2026-05-10",
+        "url": "https://www.instagram.com/p/DYLFb0JMkiI/",
+        "hook": "Añadirías alguno a la lista? te leo 👀",
+        "shares": null,
+        "saves": null
+      },
+      {
+        "rank": 5,
+        "views": 9831,
+        "likes": 145,
+        "comments": 5,
+        "fecha": "2026-05-19",
+        "url": "https://www.instagram.com/p/DYhyG4VsC7l/",
+        "hook": "Comenta cuál ya tienes en cartera.",
+        "shares": null,
+        "saves": null
+      }
+    ],
+    "top5_engagement": [
+      {
+        "rank": 1,
+        "engagement_rate_pct": 2.8,
+        "views": 214,
+        "likes": 6,
+        "comments": 0,
+        "shares": null,
+        "saves": null,
+        "fecha": "2026-04-07",
+        "url": "https://www.instagram.com/p/DW1ErypjPYQ/",
+        "hook": "👉Si quieres aprender a invertir de una forma fácil y sencilla, sígueme.",
+        "er_formula": "(likes+comments)/views"
+      },
+      {
+        "rank": 2,
+        "engagement_rate_pct": 2.53,
+        "views": 237,
+        "likes": 5,
+        "comments": 1,
+        "shares": null,
+        "saves": null,
+        "fecha": "2026-04-08",
+        "url": "https://www.instagram.com/p/DW4jOb3DPtw/",
+        "hook": "👉No hace falta una estrategia compleja para hacer crecer tu dinero. Con 200€ al mes y constancia, los resultad",
+        "er_formula": "(likes+comments)/views"
+      },
+      {
+        "rank": 3,
+        "engagement_rate_pct": 2.49,
+        "views": 241,
+        "likes": 6,
+        "comments": 0,
+        "shares": null,
+        "saves": null,
+        "fecha": "2026-04-25",
+        "url": "https://www.instagram.com/p/DXjQSQdjNQe/",
+        "hook": "esto aplica muy bien a muchas otras situaciones.. subir el nivel de vida por ingresar más es un error muy comú",
+        "er_formula": "(likes+comments)/views"
+      },
+      {
+        "rank": 4,
+        "engagement_rate_pct": 2.13,
+        "views": 2915,
+        "likes": 31,
+        "comments": 31,
+        "shares": null,
+        "saves": null,
+        "fecha": "2026-05-20",
+        "url": "https://www.instagram.com/p/DYjP4baMssZ/",
+        "hook": "Comenta ETF si quieres copiar mi estrategia y asegurarte de no fallar al elegir el S&P 500 correcto.",
+        "er_formula": "(likes+comments)/views"
+      },
+      {
+        "rank": 5,
+        "engagement_rate_pct": 1.95,
+        "views": 18054,
+        "likes": 335,
+        "comments": 17,
+        "shares": null,
+        "saves": null,
+        "fecha": "2026-05-07",
+        "url": "https://www.instagram.com/p/DYCaj7Ds4rE/",
+        "hook": "Envíaselo a esa persona a la que le pueda ayudar 💙",
+        "er_formula": "(likes+comments)/views"
+      }
+    ],
+    "timeseries": [
+      {
+        "fecha": "2026-04-07",
+        "views": 214,
+        "url": "https://www.instagram.com/p/DW1ErypjPYQ/",
+        "hook": "👉Si quieres aprender a invertir de una forma fácil y sencill"
+      },
+      {
+        "fecha": "2026-04-08",
+        "views": 237,
+        "url": "https://www.instagram.com/p/DW4jOb3DPtw/",
+        "hook": "👉No hace falta una estrategia compleja para hacer crecer tu "
+      },
+      {
+        "fecha": "2026-04-09",
+        "views": 38608,
+        "url": "https://www.instagram.com/p/DW7D8LRDFwR/",
+        "hook": "👉Cuanto más tiempo permaneces invertido, mayores son tus pro"
+      },
+      {
+        "fecha": "2026-04-10",
+        "views": 4476,
+        "url": "https://www.instagram.com/p/DW9ycehjGJs/",
+        "hook": "👉200€ al mes no te van a hacer rico de la noche a la mañana."
+      },
+      {
+        "fecha": "2026-04-11",
+        "views": 816,
+        "url": "https://www.instagram.com/p/DXAB0YJDG0x/",
+        "hook": "👉¿Qué activo es el mejor para invertir?"
+      },
+      {
+        "fecha": "2026-04-14",
+        "views": 215,
+        "url": "https://www.instagram.com/p/DXHcdtyDNTU/",
+        "hook": "si no estás dispuesto a hacer lo que la mayoría de la gente "
+      },
+      {
+        "fecha": "2026-04-15",
+        "views": 461,
+        "url": "https://www.instagram.com/p/DXKcQfGDOck/",
+        "hook": "¿Cuánto tiempo lleva llegar a 1.000.000€? Descubre la pacien"
+      },
+      {
+        "fecha": "2026-04-16",
+        "views": 265,
+        "url": "https://www.instagram.com/p/DXM86_rDD5i/",
+        "hook": "💶 ¿5000 euros en el banco? No dejes que la inflación se los "
+      },
+      {
+        "fecha": "2026-04-17",
+        "views": 261,
+        "url": "https://www.instagram.com/p/DXPoyvTDApP/",
+        "hook": "Tienes 5000 euros en el banco? No dejes que la inflación se "
+      },
+      {
+        "fecha": "2026-04-19",
+        "views": 300,
+        "url": "https://www.instagram.com/p/DXU8bxqjPTz/",
+        "hook": "respuesta que necesitaba hace 20 años. liquida deudas, crea "
+      },
+      {
+        "fecha": "2026-04-20",
+        "views": 2596,
+        "url": "https://www.instagram.com/p/DXXaahVjOid/",
+        "hook": "¿tú que crees, vale para vivir bien?"
+      },
+      {
+        "fecha": "2026-04-21",
+        "views": 231,
+        "url": "https://www.instagram.com/p/DXZnrqdjI1-/",
+        "hook": "los tiempos cambiaron, no tu esfuerzo. vivir en otra realida"
+      },
+      {
+        "fecha": "2026-04-22",
+        "views": 244,
+        "url": "https://www.instagram.com/p/DXcjceCjPtk/",
+        "hook": "inflación del estilo de vida: sube tu nivel solo un 30% y gu"
+      },
+      {
+        "fecha": "2026-04-23",
+        "views": 317,
+        "url": "https://www.instagram.com/p/DXeuUyVDG4s/",
+        "hook": "ahorrar no es solo guardar dinero, es hacerlo bien para que "
+      },
+      {
+        "fecha": "2026-04-24",
+        "views": 3035,
+        "url": "https://www.instagram.com/p/DXg6bfEjGTB/",
+        "hook": "gastamos en apariencia pero olvidamos el valor real. control"
+      },
+      {
+        "fecha": "2026-04-25",
+        "views": 241,
+        "url": "https://www.instagram.com/p/DXjQSQdjNQe/",
+        "hook": "esto aplica muy bien a muchas otras situaciones.. subir el n"
+      },
+      {
+        "fecha": "2026-04-27",
+        "views": 371,
+        "url": "https://www.instagram.com/p/DXpGcvcjNf9/",
+        "hook": "Pasos simples para principiantes que quieren entrar en bolsa"
+      },
+      {
+        "fecha": "2026-04-28",
+        "views": 268,
+        "url": "https://www.instagram.com/p/DXr1061jIxP/",
+        "hook": "págate primero y notarás la diferencia. aparta el 10% apenas"
+      },
+      {
+        "fecha": "2026-04-29",
+        "views": 699,
+        "url": "https://www.instagram.com/p/DXuRwpJjBK_/",
+        "hook": "Comenta TU EDAD y te digo cómo hacerlo en tú caso"
+      },
+      {
+        "fecha": "2026-04-30",
+        "views": 31519,
+        "url": "https://www.instagram.com/p/DXxDYVzsnYs/",
+        "hook": "Dale ❤️ si inviertes a largo plazo"
+      },
+      {
+        "fecha": "2026-05-07",
+        "views": 18054,
+        "url": "https://www.instagram.com/p/DYCaj7Ds4rE/",
+        "hook": "Envíaselo a esa persona a la que le pueda ayudar 💙"
+      },
+      {
+        "fecha": "2026-05-10",
+        "views": 17293,
+        "url": "https://www.instagram.com/p/DYLFb0JMkiI/",
+        "hook": "Añadirías alguno a la lista? te leo 👀"
+      },
+      {
+        "fecha": "2026-05-14",
+        "views": 4752,
+        "url": "https://www.instagram.com/p/DYU34lFMstM/",
+        "hook": "Pocos hablan de esto. Hay que tomar decisiones en base a los"
+      },
+      {
+        "fecha": "2026-05-15",
+        "views": 2146,
+        "url": "https://www.instagram.com/p/DYW01MHM0jC/",
+        "hook": "👉 comenta 'INVERTIR' y te enseño cómo Invertir desde 100€ a "
+      },
+      {
+        "fecha": "2026-05-16",
+        "views": 954,
+        "url": "https://www.instagram.com/p/DYaFt1YMX2C/",
+        "hook": "comenta 'EDAD' y te explico cómo invertir cada mes según tu "
+      },
+      {
+        "fecha": "2026-05-19",
+        "views": 9831,
+        "url": "https://www.instagram.com/p/DYhyG4VsC7l/",
+        "hook": "Comenta cuál ya tienes en cartera."
+      },
+      {
+        "fecha": "2026-05-20",
+        "views": 2915,
+        "url": "https://www.instagram.com/p/DYjP4baMssZ/",
+        "hook": "Comenta ETF si quieres copiar mi estrategia y asegurarte de "
+      },
+      {
+        "fecha": "2026-05-21",
+        "views": 1820,
+        "url": "https://www.instagram.com/p/DYmDFScs5bO/",
+        "hook": "Comenta SP si quieres el curso GRATUITO de inversión donde t"
+      },
+      {
+        "fecha": "2026-05-22",
+        "views": 815,
+        "url": "https://www.instagram.com/p/DYodUnfsFDY/",
+        "hook": "Comenta REAL si quieres el curso GRATUITO de inversión donde"
+      }
+    ]
+  },
+  "tiktok": {
+    "platform": "TikTok",
+    "n_videos": 26,
+    "fecha_primero": "2026-04-09",
+    "fecha_ultimo": "2026-05-22",
+    "views_total": 115990,
+    "views_media": 4461.2,
+    "views_mediana": 848,
+    "views_p25": 746,
+    "views_p50": 848,
+    "views_p75": 1206,
+    "views_max": 60900,
+    "views_min": 277,
+    "views_stdev": 12459.1,
+    "rango_operativo_lo": 746,
+    "rango_operativo_hi": 1206,
+    "virales_threshold": 5000,
+    "virales_count": 3,
+    "virales_values": [
+      60900,
+      24100,
+      8622
+    ],
+    "media_sin_virales": 972.5,
+    "mediana_sin_virales": 834,
+    "histogram": [
+      {
+        "bucket": "<500",
+        "lo": 0,
+        "hi": 500,
+        "count": 4
+      },
+      {
+        "bucket": "500-1k",
+        "lo": 500,
+        "hi": 1000,
+        "count": 14
+      },
+      {
+        "bucket": "1k-3k",
+        "lo": 1000,
+        "hi": 3000,
+        "count": 4
+      },
+      {
+        "bucket": "3k-5k",
+        "lo": 3000,
+        "hi": 5000,
+        "count": 1
+      },
+      {
+        "bucket": "5k-10k",
+        "lo": 5000,
+        "hi": 10000,
+        "count": 1
+      },
+      {
+        "bucket": "10k-30k",
+        "lo": 10000,
+        "hi": 30000,
+        "count": 1
+      },
+      {
+        "bucket": "30k+",
+        "lo": 30000,
+        "hi": 1000000000,
+        "count": 1
+      }
+    ],
+    "likes_total": 1985,
+    "comments_total": 92,
+    "n_views_30k_plus": 1,
+    "n_views_50k_plus": 1,
+    "n_views_100k_plus": 0,
+    "n_views_10k_plus": 2,
+    "n_views_5k_plus": 3,
+    "n_views_1k_plus": 8,
+    "shares_total": 747,
+    "saves_total": 1042,
+    "top5_views": [
+      {
+        "rank": 1,
+        "views": 60900,
+        "likes": 1174,
+        "comments": 33,
+        "fecha": "2026-04-30",
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7634627444296715542",
+        "hook": "Añadirías alguna? Te leo 👀",
+        "shares": 536,
+        "saves": 826
+      },
+      {
+        "rank": 2,
+        "views": 24100,
+        "likes": 354,
+        "comments": 21,
+        "fecha": "2026-04-09",
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7626845682703518998",
+        "hook": "👉Cuanto más tiempo permaneces invertido, mayores son tus probabilidades de no perder dinero nunca.",
+        "shares": 126,
+        "saves": 87
+      },
+      {
+        "rank": 3,
+        "views": 8622,
+        "likes": 92,
+        "comments": 4,
+        "fecha": "2026-05-14",
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7639789078740782358",
+        "hook": "La realidad del SP500. Lo sabías? Te leo abajo 👀",
+        "shares": 22,
+        "saves": 24
+      },
+      {
+        "rank": 4,
+        "views": 4064,
+        "likes": 80,
+        "comments": 11,
+        "fecha": "2026-05-22",
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7642608668617248022",
+        "hook": "Comenta ETF si quieres copiar mi estrategia y asegurarte de no fallar al elegir el S&P 500 correcto.",
+        "shares": 33,
+        "saves": 37
+      },
+      {
+        "rank": 5,
+        "views": 1874,
+        "likes": 41,
+        "comments": 8,
+        "fecha": "2026-04-20",
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7630931805863955734",
+        "hook": "¿tú que crees, vale para vivir bien?",
+        "shares": 3,
+        "saves": 5
+      }
+    ],
+    "top5_engagement": [
+      {
+        "rank": 1,
+        "engagement_rate_pct": 2.29,
+        "views": 60900,
+        "likes": 1174,
+        "comments": 33,
+        "shares": 536,
+        "saves": 826,
+        "fecha": "2026-04-30",
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7634627444296715542",
+        "hook": "Añadirías alguna? Te leo 👀",
+        "er_formula": "(saves+shares+comments)/views"
+      },
+      {
+        "rank": 2,
+        "engagement_rate_pct": 1.99,
+        "views": 4064,
+        "likes": 80,
+        "comments": 11,
+        "shares": 33,
+        "saves": 37,
+        "fecha": "2026-05-22",
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7642608668617248022",
+        "hook": "Comenta ETF si quieres copiar mi estrategia y asegurarte de no fallar al elegir el S&P 500 correcto.",
+        "er_formula": "(saves+shares+comments)/views"
+      },
+      {
+        "rank": 3,
+        "engagement_rate_pct": 1.71,
+        "views": 1171,
+        "likes": 27,
+        "comments": 0,
+        "shares": 8,
+        "saves": 12,
+        "fecha": "2026-04-16",
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7629420092945648918",
+        "hook": "💶 ¿5000 euros en el banco? No dejes que la inflación se los coma. Sigue estos 3 pasos para hacerlo crecer. En ",
+        "er_formula": "(saves+shares+comments)/views"
+      },
+      {
+        "rank": 4,
+        "engagement_rate_pct": 1.41,
+        "views": 1066,
+        "likes": 42,
+        "comments": 1,
+        "shares": 3,
+        "saves": 11,
+        "fecha": "2026-04-10",
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7627237933191499031",
+        "hook": "👉200€ al mes no te van a hacer rico de la noche a la mañana.",
+        "er_formula": "(saves+shares+comments)/views"
+      },
+      {
+        "rank": 5,
+        "engagement_rate_pct": 1.4,
+        "views": 356,
+        "likes": 5,
+        "comments": 2,
+        "shares": 1,
+        "saves": 2,
+        "fecha": "2026-04-17",
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7629808473261280534",
+        "hook": "¿Tienes 5000 euros en el banco? No dejes que la inflación se los coma. Sigue estos 3 pasos",
+        "er_formula": "(saves+shares+comments)/views"
+      }
+    ],
+    "timeseries": [
+      {
+        "fecha": "2026-04-09",
+        "views": 24100,
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7626845682703518998",
+        "hook": "👉Cuanto más tiempo permaneces invertido, mayores son tus pro"
+      },
+      {
+        "fecha": "2026-04-10",
+        "views": 1066,
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7627237933191499031",
+        "hook": "👉200€ al mes no te van a hacer rico de la noche a la mañana."
+      },
+      {
+        "fecha": "2026-04-11",
+        "views": 498,
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7627561748262063382",
+        "hook": "👉¿Qué activo es el mejor para invertir?"
+      },
+      {
+        "fecha": "2026-04-14",
+        "views": 762,
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7628630900191939862",
+        "hook": "si no estás dispuesto a hacer lo que la mayoría de la gente "
+      },
+      {
+        "fecha": "2026-04-15",
+        "views": 321,
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7629062544333819158",
+        "hook": "¿Cuánto tiempo lleva llegar a 1.000.000€? Descubre la pacien"
+      },
+      {
+        "fecha": "2026-04-16",
+        "views": 1171,
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7629420092945648918",
+        "hook": "💶 ¿5000 euros en el banco? No dejes que la inflación se los "
+      },
+      {
+        "fecha": "2026-04-17",
+        "views": 356,
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7629808473261280534",
+        "hook": "¿Tienes 5000 euros en el banco? No dejes que la inflación se"
+      },
+      {
+        "fecha": "2026-04-19",
+        "views": 834,
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7630576317511109910",
+        "hook": "respuesta que necesitaba hace 20 años. liquida deudas, crea "
+      },
+      {
+        "fecha": "2026-04-20",
+        "views": 1874,
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7630931805863955734",
+        "hook": "¿tú que crees, vale para vivir bien?"
+      },
+      {
+        "fecha": "2026-04-21",
+        "views": 818,
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7631249528972119318",
+        "hook": "los tiempos cambiaron, no tu esfuerzo. vivir en otra realida"
+      },
+      {
+        "fecha": "2026-04-22",
+        "views": 850,
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7631673215537909014",
+        "hook": "inflación del estilo de vida: sube tu nivel solo un 30% y gu"
+      },
+      {
+        "fecha": "2026-04-23",
+        "views": 881,
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7631989015591488791",
+        "hook": "ahorrar no es solo guardar dinero, es hacerlo bien para que "
+      },
+      {
+        "fecha": "2026-04-24",
+        "views": 1311,
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7632301995700817174",
+        "hook": "gastamos en apariencia pero olvidamos el valor real. control"
+      },
+      {
+        "fecha": "2026-04-25",
+        "views": 846,
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7632638110672751894",
+        "hook": "esto aplica muy bien a muchas otras situaciones.. subir el n"
+      },
+      {
+        "fecha": "2026-04-28",
+        "views": 920,
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7633874728704347414",
+        "hook": "págate primero y notarás la diferencia. aparta el 10% apenas"
+      },
+      {
+        "fecha": "2026-04-29",
+        "views": 581,
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7634225839189658882",
+        "hook": "Comenta TU EDAD y te digo cómo hacerlo en tú caso"
+      },
+      {
+        "fecha": "2026-04-30",
+        "views": 60900,
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7634627444296715542",
+        "hook": "Añadirías alguna? Te leo 👀"
+      },
+      {
+        "fecha": "2026-05-07",
+        "views": 819,
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7637128784067579158",
+        "hook": "Envíaselo a esa persona a la que le pueda ayudar 💙"
+      },
+      {
+        "fecha": "2026-05-10",
+        "views": 701,
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7638375614872915222",
+        "hook": "Añadirías alguno a la lista? Te leo 👀"
+      },
+      {
+        "fecha": "2026-05-14",
+        "views": 8622,
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7639789078740782358",
+        "hook": "La realidad del SP500. Lo sabías? Te leo abajo 👀"
+      },
+      {
+        "fecha": "2026-05-15",
+        "views": 277,
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7640071003938278678",
+        "hook": "comenta 'INVERTIR' y te enseño cómo Invertir desde 100€ a 10"
+      },
+      {
+        "fecha": "2026-05-16",
+        "views": 867,
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7640540753092955414",
+        "hook": "comenta 'EDAD' y te explico cómo invertir cada mes según tu "
+      },
+      {
+        "fecha": "2026-05-19",
+        "views": 809,
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7641649830577573142",
+        "hook": "Comenta cuál ya tienes en cartera."
+      },
+      {
+        "fecha": "2026-05-20",
+        "views": 948,
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7641913692300299542",
+        "hook": "Comenta REAL si quieres el curso GRATUITO de inversión donde"
+      },
+      {
+        "fecha": "2026-05-21",
+        "views": 794,
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7642264040030489878",
+        "hook": "Comenta SP si quieres el curso GRATUITO de inversión donde t"
+      },
+      {
+        "fecha": "2026-05-22",
+        "views": 4064,
+        "url": "https://www.tiktok.com/@pablonavarro.inversion/video/7642608668617248022",
+        "hook": "Comenta ETF si quieres copiar mi estrategia y asegurarte de "
+      }
+    ]
+  },
+  "totales_combinados": {
+    "n_videos_ig": 29,
+    "n_videos_tt": 26,
+    "n_videos_total": 55,
+    "views_total": 259944,
+    "likes_total": 3709,
+    "comments_total": 202,
+    "shares_total_tt": 747,
+    "saves_total_tt": 1042
+  },
+  "comentarios_intencion_ig": [
+    {
+      "post_url": "https://www.instagram.com/p/DYodUnfsFDY/",
+      "post_hook": "Comenta REAL si quieres el curso GRATUITO de inversión donde te enseño",
+      "post_views": 815,
+      "comment_text": "Real",
+      "comment_owner": "parr6264",
+      "intent_keywords": [
+        "REAL"
+      ]
+    },
+    {
+      "post_url": "https://www.instagram.com/p/DYodUnfsFDY/",
+      "post_hook": "Comenta REAL si quieres el curso GRATUITO de inversión donde te enseño",
+      "post_views": 815,
+      "comment_text": "Real.",
+      "comment_owner": "leonardo65316",
+      "intent_keywords": [
+        "REAL"
+      ]
+    },
+    {
+      "post_url": "https://www.instagram.com/p/DYmDFScs5bO/",
+      "post_hook": "Comenta SP si quieres el curso GRATUITO de inversión donde te enseño a",
+      "post_views": 1820,
+      "comment_text": "@leonardo65316 lo tienes en bio Leonardo 🙌",
+      "comment_owner": "pablonavarro.inversion",
+      "intent_keywords": [
+        "link/bio"
+      ]
+    },
+    {
+      "post_url": "https://www.instagram.com/p/DYjP4baMssZ/",
+      "post_hook": "Comenta ETF si quieres copiar mi estrategia y asegurarte de no fallar ",
+      "post_views": 2915,
+      "comment_text": "Etf🙌",
+      "comment_owner": "isbhi.2024",
+      "intent_keywords": [
+        "ETF"
+      ]
+    },
+    {
+      "post_url": "https://www.instagram.com/p/DYjP4baMssZ/",
+      "post_hook": "Comenta ETF si quieres copiar mi estrategia y asegurarte de no fallar ",
+      "post_views": 2915,
+      "comment_text": "Etf",
+      "comment_owner": "silvia_jimrz",
+      "intent_keywords": [
+        "ETF"
+      ]
+    },
+    {
+      "post_url": "https://www.instagram.com/p/DYjP4baMssZ/",
+      "post_hook": "Comenta ETF si quieres copiar mi estrategia y asegurarte de no fallar ",
+      "post_views": 2915,
+      "comment_text": "ETF",
+      "comment_owner": "jarr272024",
+      "intent_keywords": [
+        "ETF"
+      ]
+    },
+    {
+      "post_url": "https://www.instagram.com/p/DYjP4baMssZ/",
+      "post_hook": "Comenta ETF si quieres copiar mi estrategia y asegurarte de no fallar ",
+      "post_views": 2915,
+      "comment_text": "ETF",
+      "comment_owner": "comas.enric",
+      "intent_keywords": [
+        "ETF"
+      ]
+    },
+    {
+      "post_url": "https://www.instagram.com/p/DYhyG4VsC7l/",
+      "post_hook": "Comenta cuál ya tienes en cartera.",
+      "post_views": 9831,
+      "comment_text": "Y Coca Cola? Es cualquier esa info",
+      "comment_owner": "benditasalis",
+      "intent_keywords": [
+        "INFO",
+        "pregunta_genérica"
+      ]
+    },
+    {
+      "post_url": "https://www.instagram.com/p/DYLFb0JMkiI/",
+      "post_hook": "Añadirías alguno a la lista? te leo 👀",
+      "post_views": 17293,
+      "comment_text": "Cuales de estos son etfs acumulativos?",
+      "comment_owner": "harold_reyes.rojas",
+      "intent_keywords": [
+        "pregunta_genérica"
+      ]
+    },
+    {
+      "post_url": "https://www.instagram.com/p/DYLFb0JMkiI/",
+      "post_hook": "Añadirías alguno a la lista? te leo 👀",
+      "post_views": 17293,
+      "comment_text": "Que me dices de l alguna India?",
+      "comment_owner": "solcosmica",
+      "intent_keywords": [
+        "pregunta_genérica"
+      ]
+    },
+    {
+      "post_url": "https://www.instagram.com/p/DYLFb0JMkiI/",
+      "post_hook": "Añadirías alguno a la lista? te leo 👀",
+      "post_views": 17293,
+      "comment_text": "¿Por qué QQQ y no QQQM?",
+      "comment_owner": "fotocortes",
+      "intent_keywords": [
+        "pregunta_genérica"
+      ]
+    },
+    {
+      "post_url": "https://www.instagram.com/p/DYLFb0JMkiI/",
+      "post_hook": "Añadirías alguno a la lista? te leo 👀",
+      "post_views": 17293,
+      "comment_text": "Y en que Bróker los consigues?",
+      "comment_owner": "j_j_s_english_coaching",
+      "intent_keywords": [
+        "pregunta_genérica"
+      ]
+    },
+    {
+      "post_url": "https://www.instagram.com/p/DYCaj7Ds4rE/",
+      "post_hook": "Envíaselo a esa persona a la que le pueda ayudar 💙",
+      "post_views": 18054,
+      "comment_text": "Por favor, no cortes los vídeos tan al límite. McDonald's me gusta pero acabar de romper soporte importante no?",
+      "comment_owner": "jiricarte",
+      "intent_keywords": [
+        "pregunta_genérica"
+      ]
+    },
+    {
+      "post_url": "https://www.instagram.com/p/DW7D8LRDFwR/",
+      "post_hook": "👉Cuanto más tiempo permaneces invertido, mayores son tus probabilidade",
+      "post_views": 38608,
+      "comment_text": "Y las posibilidades de ganar dinero?",
+      "comment_owner": "felixramoss",
+      "intent_keywords": [
+        "pregunta_genérica"
+      ]
+    },
+    {
+      "post_url": "https://www.instagram.com/p/DW7D8LRDFwR/",
+      "post_hook": "👉Cuanto más tiempo permaneces invertido, mayores son tus probabilidade",
+      "post_views": 38608,
+      "comment_text": "Se ha contemplado la inflación en esta estadística? Si no es así, se perdería mucho aún empatando",
+      "comment_owner": "jorge.diez.vanila",
+      "intent_keywords": [
+        "pregunta_genérica"
+      ]
+    },
+    {
+      "post_url": "https://www.instagram.com/p/DW7D8LRDFwR/",
+      "post_hook": "👉Cuanto más tiempo permaneces invertido, mayores son tus probabilidade",
+      "post_views": 38608,
+      "comment_text": "Pero la idea es ganar, no?",
+      "comment_owner": "jordixa",
+      "intent_keywords": [
+        "pregunta_genérica"
+      ]
+    },
+    {
+      "post_url": "https://www.instagram.com/p/DW4jOb3DPtw/",
+      "post_hook": "👉No hace falta una estrategia compleja para hacer crecer tu dinero. Co",
+      "post_views": 237,
+      "comment_text": "Con el MSCIworld únicamente podría alcanzar ese rendimiento?",
+      "comment_owner": "francisco641987f",
+      "intent_keywords": [
+        "pregunta_genérica"
+      ]
+    }
+  ],
+  "tt_ctas_count": {
+    "ETF": 2,
+    "curso": 2,
+    "REAL": 2,
+    "pregunta_genérica": 8,
+    "principiante": 1,
+    "interés_compra": 1
+  },
+  "diferencias_publicacion": {
+    "n_solo_ig": 7,
+    "n_solo_tt": 4,
+    "ejemplos_solo_ig": [
+      "👉 comenta 'invertir' y te enseño cómo invertir desde 100€ a 10.000€ con un métod",
+      "pocos hablan de esto. hay que tomar decisiones en base a los datos. tu sabías es",
+      "dale ❤️ si inviertes a largo plazo",
+      "pasos simples para principiantes que quieren entrar en bolsa sin arriesgar mucho",
+      "tienes 5000 euros en el banco? no dejes que la inflación se los coma. sigue esto"
+    ],
+    "ejemplos_solo_tt": [
+      "comenta 'invertir' y te enseño cómo invertir desde 100€ a 10.000€ con un método ",
+      "la realidad del sp500. lo sabías? te leo abajo 👀",
+      "añadirías alguna? te leo 👀",
+      "¿tienes 5000 euros en el banco? no dejes que la inflación se los coma. sigue est"
+    ]
+  }
+}
